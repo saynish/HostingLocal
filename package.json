@@ -1,0 +1,8 @@
+{
+  "name": "local-server-panel",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Локальная панель серверов Minecraft и Telegram-ботов",
+  "engines": { "node": ">=24.0.0" },
+  "scripts": { "start": "node src/main.js", "test": "node --test tests/*.test.js" }
+}
